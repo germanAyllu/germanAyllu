@@ -23,7 +23,7 @@ To get started with Natal-IA, simply visit our web www.ayllu.ai and join the Dis
 We welcome contributions from the community! If you are interested in contributing to the development of Natal-IA, please read our contributing guidelines and reach out to us through the issue tracker.
 
 ## License
-Natal-IA is released under the MIT License.
+Natal-IA is released under a End User License Agreement, you can find it here: https://github.com/germanAyllu/Natal-IA/blob/main/LICENSE.
 
 Contact
 For any questions or issues, please don't hesitate to contact us at contact@ayllu.ai.
